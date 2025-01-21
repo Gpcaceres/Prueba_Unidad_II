@@ -1,0 +1,1 @@
+jRTD:\PruebasDeSoftware\Prueba2U_F\GestionCitasMedicas\TestProject1\TestProject1.csproj¢net8.0òCSharp12
